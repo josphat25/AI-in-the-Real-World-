@@ -83,5 +83,45 @@ Also, schools should offer alternatives for students with different needs — be
 Bonus Vibes: What We Learned
 Just because an AI watches doesn't mean it understands.
 Being a Responsible AI Inspector means asking: Who does this help? Who does it hurt? And how do we build systems that treat all students fairly — eyes wandering or not?
+
+## Responsible AI Inspector Report
+By: Josphat Ndungu
+Case 1: The Biased Hiring Bot
+ What’s Happening:
+A company uses an AI tool to screen job applicants. It analyzes resumes and filters out candidates based on patterns it has learned from historical hiring data.
+
+ What’s Problematic:
+The AI tends to reject women with career gaps — often due to maternity or caregiving. It has learned gender bias from past data and is repeating it, unfairly penalizing qualified applicants. Plus, no one really knows how it makes its decisions — it’s a black box.
+
+ One Improvement Idea:
+Audit and retrain the AI on fairer, balanced data that doesn’t discriminate based on career gaps or gender. Add a human review layer to check for biased decisions before rejections are final.
+
+ Bonus Blog Vibe:
+
+"HireMate3000 might be efficient, but it’s also a little sexist. When algorithms inherit our flaws, they automate injustice. Time to teach our robots some respect — and fairness!"
+
+Case 2: The Suspicious School Surveillance
+ What’s Happening:
+A school uses an AI-powered proctoring system during online exams. It monitors students’ eye movement, head turns, and facial expressions to detect possible cheating.
+
+ What’s Problematic:
+The system often flags neurodivergent students who naturally fidget, look around, or struggle with eye contact. This leads to false accusations of cheating. There's little transparency and no fair appeal process — just an automated accusation.
+
+ One Improvement Idea:
+Make the AI neurodiversity-aware by training it on a more inclusive dataset. Also, involve human reviewers before flagging behavior as cheating, and offer accommodations for students with special needs.
+
+ Bonus Blog Vibe:
+
+"Just because a student looks around doesn’t mean they’re cheating — maybe their brain just works differently. AI should help us learn, not label us unfairly. Let’s build smarter tools that know the difference!"
+
+Done:
+
+Two cases analyzed
+
+Issues identified (bias, fairness, transparency)
+
+One solution per case
+
+Bonus: Delivered in fun, readable blog format
 AI should support learning, not punish diversity.
 Stay curious. Stay critical.
